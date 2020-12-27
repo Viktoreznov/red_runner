@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Chest
+  - enemy
+  - Water
+  - superChest
+  - Ending
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround Mountain
+    uniqueID: 3153370619
+    locked: 0
+  - name: Background Hills 2
+    uniqueID: 1643316009
+    locked: 0
+  - name: Background Hills 1
+    uniqueID: 2862539757
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForGround
+    uniqueID: 1101365025
+    locked: 0
