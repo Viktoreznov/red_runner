@@ -17,11 +17,17 @@ I only did the game logic and the level design.
       URP going tp be used to to make some good looking levels.
       
   # The current main meun
+  
 ![alt text](https://i.ibb.co/Jsb17Y9/1.png)
+
 ![alt text](https://i.ibb.co/BGNCkWB/2.png)
-  #The Actual level 1
+
+  # The Actual level 1
+  
 ![alt text](https://i.ibb.co/bry73qn/3.png)
+
 ![alt text](https://i.ibb.co/rpfw2tV/4.png)
+
 ![alt text](https://i.ibb.co/fStkS4N/5.png)
 
 # Game over menu 
