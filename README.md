@@ -1,5 +1,5 @@
 # red_runner MADE USING UNITY3D 2019.4.17F1
-This project is made using a collection of the most know assets in the asset store, plateformer 2D game with main menu and couple of levels i designed myself all the game mechanics are programmed here and i'm still working on it, you are welcome to download and try this
+This project is made using a collection of the very known assets from the asset store, plateformer 2D game with main menu and couple of levels i designed myself all the game mechanics are programmed here and i'm still working on it, you are welcome to download and try this
 
 # Resources
 
